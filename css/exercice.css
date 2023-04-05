@@ -9,6 +9,13 @@
 
 /* 2. exercice-2 */
 
+.exercice-2 .container-big {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 /* 3. exercice-3 */
 
 /* 4. exercice-4 */
