@@ -31,6 +31,17 @@
 }
 /* 4. exercice-4 */
 
+.exercice-4 .container-big {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.exercice-4 .element-pink {
+  align-self: flex-start;
+}
+
 /* 5. exercice-5 */
 
 /* 6. exercice-6 */
