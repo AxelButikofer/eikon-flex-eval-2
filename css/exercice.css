@@ -59,11 +59,16 @@
   align-items: flex-start;
 }
 
-.exercice-6 .element {
-  flex-wrap: nowrap;
-}
-
 /* 7. exercice-7 */
+
+.exercice-7 .container-set {
+  display:flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-content: center;
+}
 
 /* 8. exercice-8 */
 
