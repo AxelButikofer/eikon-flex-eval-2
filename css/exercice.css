@@ -52,6 +52,17 @@
 
 /* 6. exercice-6 */
 
+.exercice-6 .container-small {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.exercice-6 .element {
+  flex-wrap: nowrap;
+}
+
 /* 7. exercice-7 */
 
 /* 8. exercice-8 */
